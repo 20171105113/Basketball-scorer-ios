@@ -15,6 +15,7 @@
 		1C11091721CC839500E59A6D /* Basketball_scorerTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1C11091621CC839500E59A6D /* Basketball_scorerTests.swift */; };
 		1C11092221CC839500E59A6D /* Basketball_scorerUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1C11092121CC839500E59A6D /* Basketball_scorerUITests.swift */; };
 		1C11093021CC83D400E59A6D /* ViewB.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1C11092F21CC83D400E59A6D /* ViewB.swift */; };
+		1C29A0F321D4D65E00529218 /* 16e6fd442b83fadfc4926416910a1cb1.png in Resources */ = {isa = PBXBuildFile; fileRef = 1C29A0F221D4D65E00529218 /* 16e6fd442b83fadfc4926416910a1cb1.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		1C11092121CC839500E59A6D /* Basketball_scorerUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Basketball_scorerUITests.swift; sourceTree = "<group>"; };
 		1C11092321CC839500E59A6D /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		1C11092F21CC83D400E59A6D /* ViewB.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewB.swift; sourceTree = "<group>"; };
+		1C29A0F221D4D65E00529218 /* 16e6fd442b83fadfc4926416910a1cb1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 16e6fd442b83fadfc4926416910a1cb1.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -99,6 +101,7 @@
 		1C11090021CC839300E59A6D /* Basketball scorer */ = {
 			isa = PBXGroup;
 			children = (
+				1C29A0F221D4D65E00529218 /* 16e6fd442b83fadfc4926416910a1cb1.png */,
 				1C11090121CC839300E59A6D /* AppDelegate.swift */,
 				1C11090321CC839300E59A6D /* ViewController.swift */,
 				1C11090521CC839300E59A6D /* Main.storyboard */,
@@ -232,6 +235,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				1C29A0F321D4D65E00529218 /* 16e6fd442b83fadfc4926416910a1cb1.png in Resources */,
 				1C11090C21CC839500E59A6D /* LaunchScreen.storyboard in Resources */,
 				1C11090921CC839500E59A6D /* Assets.xcassets in Resources */,
 				1C11090721CC839300E59A6D /* Main.storyboard in Resources */,

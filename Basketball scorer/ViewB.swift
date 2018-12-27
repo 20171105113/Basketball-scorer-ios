@@ -10,6 +10,13 @@ import UIKit
 
 class ViewB: UIViewController {
     
+    @IBOutlet weak var teamnamea: UITextField!
+    @IBOutlet weak var teamnameb: UITextField!
+    
+    
+    
+    //test
+
     override func viewDidLoad() {
         super.viewDidLoad()
         // Do any additional setup after loading the view, typically from a nib.
